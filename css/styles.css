@@ -1,0 +1,17 @@
+* {
+    background-color:antiquewhite;
+    font-family: monospace,'Courier New', Courier;
+}
+
+p, ul li, ol li{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    font-size: 52px;
+
+}
+h2{
+    background-color:black;
+    color:antiquewhite;
+}
